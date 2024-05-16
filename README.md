@@ -1,3 +1,7 @@
-# informacoesDoSeuNome
+<h1> 
+  Informações sobre o seu Nome
+</h1> 
 
-# um site que te da várias informações sobre seu nome
+<p>
+  Um site que trás algumas informações sobre seu nome, feito com a JavaScript e HTML5
+</p>
